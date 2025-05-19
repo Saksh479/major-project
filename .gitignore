@@ -1,8 +1,4 @@
-__pycache__/
-*.pyc
-*.pyo
 .ipynb_checkpoints/
-*.mid
 *.hdf5
-data/notes
 piano_env
+*.rar
